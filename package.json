@@ -1,6 +1,6 @@
 {
   "name": "@aldyadk/antarmuka",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "ui library",
   "main": "dist/cjs/index",
   "typings": "dist/index",
